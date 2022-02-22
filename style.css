@@ -170,11 +170,11 @@ padding: 0;
      margin-left: 25px;
  }
 
-.img3, img {
-    width: 600px;
+.img3 img {
+    width: 38rem;
 }
-.img4, img {
-    width: 600px;
+.img4 img {
+    width: 38rem;
 }
 .main4 {
     background-color: #2A5298;
@@ -184,7 +184,7 @@ padding: 0;
     height: 390px;
 
 }
-.img4 img {
+.img5 img {
 margin-left: 25px;
 margin-bottom: 30px;
 }

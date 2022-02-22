@@ -1,0 +1,153 @@
+@media screen and (max-width: 1000px) {
+    .initial, .main1,.main2,.main3img,.main4,.mainc5 {   
+      flex-direction: column;
+    }
+    .initial {
+        height: 550px;
+    }
+    .sideintial {
+        margin-bottom: 100px;
+    }
+    .main1 {
+        height: 650px;
+    }
+    .main2 {
+        height: 650px;
+    }
+    .main3 {
+        height: 350px;
+    }
+    .main4 {
+        height: 690px;
+    }
+    .img5 img {
+        width: 550px;
+    }
+    .main5 {
+        height: 450px;
+    }
+    .mainc5 {
+        justify-content: center;
+        align-items: center;
+    }
+    .mainc5 button {
+        margin-top: 25px;
+    }
+    .mfooter {
+        flex-wrap: wrap;
+    }
+    .log2 img{
+        visibility: hidden;
+    }
+    .features {
+        position: relative;
+        right: 250px;
+    }
+    .foot2 {
+        background-color: #F6FFDE ;
+        margin-top: 50px;
+    }
+    .imges img {
+         position:absolute;
+         left: -455px;
+top: -26px;
+
+    }
+  }
+  @media screen and (max-width: 600px){
+      .logo img {
+          width: 60px;
+          position:absolute;
+          left: -15px;
+      }
+      .btn1 {
+          width: 100px;
+      }
+
+      .btn2 {
+          width: 120px;
+      }
+      .n1 {
+        margin-left: 15px;
+    }
+    .n2 {
+        margin-left: 5px;
+    }
+    .initial {
+        height: 350px;
+    }
+    .initial h2 {
+        text-align: center;
+        margin-top: 40px;
+        font-size: 2rem;
+    }
+
+      .img3 img {
+          width: 20rem;
+      } 
+      .img4 img {
+        width: 20rem;
+    } 
+   
+
+  }
+  @media screen and (max-width: 450px){
+      .initial h2 {
+          font-size: 100%;
+          margin-top: 80px;
+      }
+      .main1 {
+          height: 350px;
+      }
+      .img1 img {
+          width: 250px;
+      }
+      .main2 {
+          height: 400px;
+      }
+      .img2 img {
+          width: 250px;
+      }
+      .main3 {
+          height: 200px;
+      }
+      .img4 img {
+        width: 18rem;
+    } 
+    .main4 {
+        height: 450px;
+    }
+    .img5 img {
+        width: 250px;
+        margin-top: -25px;
+    }
+    .mainc4 {
+        padding-top: 25px;
+        position: relative;
+        bottom: 25px;
+    }
+   
+    .solutions,.features,.about,.support {
+        margin-top: 20px;
+    }
+    .solutions, .features {
+        position: relative;
+        right: 30px;
+    }
+    .input input {
+        width: 200px;
+    }
+    .btn11 {
+        margin-top: 2px;
+        margin-left: 10px;
+    }
+    .last {
+      flex-wrap: wrap;
+    }
+    .imges img {
+        position:absolute;
+        left: -707px;
+    }
+  
+
+  }
